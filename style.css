@@ -1,0 +1,140 @@
+h1{
+    font-family:Playfair Display;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 72px;
+}
+
+.headerword{
+    color: white;
+}
+span{
+    color:#e59205
+}
+
+p{
+    font-family: Raleway;
+}
+
+.headerlittleword{
+    color: white;
+    font-size: 24px;
+}
+
+.mainword{
+    color:#6e7498;
+    position: relative;
+}
+
+.mainlittleword{
+    color:#6e7498;
+}
+
+/* .mainword:before,
+.mainword:after {
+  content: "";
+  position: absolute;
+  top: 45%;
+  background: #e59205;
+  width: 10%;
+  height: 1px;
+}
+.mainword:before {
+  left: 13%; 
+}
+.mainword:after {
+  right: 13%;
+} */
+
+.mealbtn{
+    margin-left: 40px;
+}
+
+.btn-outline-primary
+{
+    color:#6e7498 !important;
+    border-color: #6e7498 !important;
+}
+
+.row{
+    margin-top: 120px;
+}
+
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #F0F8FF;
+    background-color: #e59205;
+}
+
+.nav.nav-pill.nav-justified li button {
+    width: 50px;
+}
+
+h6 {
+    margin: 0rem 1.2rem 0rem 1.2rem;
+  }
+
+#img2 {
+    background-size: cover;
+    margin-top:100px;
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
+ 
+.card {
+    max-width: 100%;
+}
+.card-text {
+    word-wrap: break-word;
+}
+
+.card {
+    overflow: hidden;
+  }
+  .card-block {
+    word-wrap: break-word;
+  }
+
+.card-body
+.card-text{
+    color:#6e7498;
+    font-family: Raleway;
+}
+
+h5.card-title{
+    font-family:Playfair Display;
+    color:#6e7498;
+}
+
+.p-3{
+    font-size: 18px;
+    font-family: Raleway;
+    color:#6e7498;
+}
+
+.footer{
+    color: #6e7498;
+    font-family: Raleway;
+}
+
+.Eudora{
+    font-family:Playfair Display;
+    font-weight: bold;
+    font-size: 72px;
+    color: #e59205;
+}
+
+.nav{
+    color: #F0F8FF; 
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.line{
+    font-weight: lighter;
+}
